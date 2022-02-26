@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://i.imgur.com/xMgBGrP.gif" width=250><br>
 
 ### Notes
-When building this app, I did encounter problems with Kotlin unresolved references, however, I was able to solve these problems by doing reserach and invalidating my cache. I also ran into problems with the SDK version I was using when compiling,a nd once again after some research, I was able to solve my problem. Since my To DO app had utilized RecyclerView, I found it to be a lot easier to conceptualize step by step.
+When building this app, I did encounter problems with Kotlin unresolved references, however, I was able to solve these problems by doing reserach and invalidating my cache. I also ran into problems with the SDK version I was using when compiling, and once again after some research, I was able to solve my problem. Since my TO DO app had utilized RecyclerView, I found it to be a lot easier to conceptualize how to use it using the movie information.
 
 ### Open-source libraries used
 
